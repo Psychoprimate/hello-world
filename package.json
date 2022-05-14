@@ -1,0 +1,42 @@
+{
+  "name": "hello-world",
+  "version": "1.0.0",
+  "description": "React, node and mongodb project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Psychoprimate/hello-world.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Psychoprimate/hello-world/issues"
+  },
+  "homepage": "https://github.com/Psychoprimate/hello-world#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "mongodb": "^4.6.0",
+    "prop-types": "^15.8.1",
+    "react": "^18.1.0",
+    "react-dom": "^18.1.0",
+    "touch": "^3.1.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.17.10",
+    "@babel/node": "^7.x",
+    "@babel/plugin-proposal-class-properties": "^7.16.7",
+    "@babel/preset-env": "^7.17.10",
+    "@babel/preset-react": "^7.16.7",
+    "babel-eslint": "^10.1.0",
+    "babel-loader": "^8.2.5",
+    "eslint": "^8.15.0",
+    "eslint-plugin-react": "^7.29.4",
+    "nodemon": "^2.0.16",
+    "touch-cli": "^0.0.1",
+    "webpack": "^5.72.1",
+    "webpack-cli": "^4.9.2"
+  }
+}
